@@ -1,0 +1,10 @@
+C:\Opleiding\Periode 4\Eindproject\Vier Op Een Rij\Vier Op Een Rij\bin\Debug\Vier Op Een Rij.exe.config
+C:\Opleiding\Periode 4\Eindproject\Vier Op Een Rij\Vier Op Een Rij\bin\Debug\Vier Op Een Rij.exe
+C:\Opleiding\Periode 4\Eindproject\Vier Op Een Rij\Vier Op Een Rij\bin\Debug\Vier Op Een Rij.pdb
+C:\Opleiding\Periode 4\Eindproject\Vier Op Een Rij\Vier Op Een Rij\obj\Debug\Vier Op Een Rij.csproj.AssemblyReference.cache
+C:\Opleiding\Periode 4\Eindproject\Vier Op Een Rij\Vier Op Een Rij\obj\Debug\Vier_Op_Een_Rij.Form1.resources
+C:\Opleiding\Periode 4\Eindproject\Vier Op Een Rij\Vier Op Een Rij\obj\Debug\Vier_Op_Een_Rij.Properties.Resources.resources
+C:\Opleiding\Periode 4\Eindproject\Vier Op Een Rij\Vier Op Een Rij\obj\Debug\Vier Op Een Rij.csproj.GenerateResource.cache
+C:\Opleiding\Periode 4\Eindproject\Vier Op Een Rij\Vier Op Een Rij\obj\Debug\Vier Op Een Rij.csproj.CoreCompileInputs.cache
+C:\Opleiding\Periode 4\Eindproject\Vier Op Een Rij\Vier Op Een Rij\obj\Debug\Vier Op Een Rij.exe
+C:\Opleiding\Periode 4\Eindproject\Vier Op Een Rij\Vier Op Een Rij\obj\Debug\Vier Op Een Rij.pdb
